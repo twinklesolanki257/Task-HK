@@ -1,3 +1,2 @@
 # Task by HK
-perform a task using Django
-
+perform a task
